@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item>
+    <nombre>Ana</nombre>
+    <edad>28</edad>
+    <ciudad>Madrid</ciudad>
+  </item>
+  <item>
+    <nombre>Luis</nombre>
+    <edad>34</edad>
+    <ciudad>Buenos Aires</ciudad>
+  </item>
+  <item>
+    <nombre>Marta</nombre>
+    <edad>22</edad>
+    <ciudad>México</ciudad>
+  </item>
+</root>
